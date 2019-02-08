@@ -1,0 +1,21 @@
+// //import all of my css variables
+@import '_vars';
+
+//import media queries
+@import '_mediaqueries';
+
+/*------reset-----*/
+
+body {
+    font-family: 'Teko', sans-serif;
+    font-size: 1.2em;
+    letter-spacing: 0.2em;
+}
+
+p, h2, h1 {
+    color: $font;
+}
+
+.hidden {
+    display:none;
+}

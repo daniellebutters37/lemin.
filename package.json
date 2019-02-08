@@ -1,0 +1,24 @@
+{
+  "name": "lemin.",
+  "version": "1.0.0",
+  "description": "lemin. Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniellebutters37/lemin..git"
+  },
+  "author": "Danielle Butters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daniellebutters37/lemin./issues"
+  },
+  "homepage": "https://github.com/daniellebutters37/lemin.#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "i": "^0.3.6"
+  }
+}
